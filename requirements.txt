@@ -1,0 +1,17 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+flask
+memory_profiler
+streamlit
+scikit-learn
+bs4
+statsmodels
+plotly
+gradio
+pandas
+langchain
+langchain-google-genai
+python-dotenv

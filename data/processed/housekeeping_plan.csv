@@ -1,0 +1,1229 @@
+room_id,hotel_name,priority,checkout_hour,assigned_staff,task_status,estimated_finish_hour
+1784,PARKROYAL on Kitchener Road,High,6,Alice,Pending,7
+3384,InterContinental Singapore,High,6,Bob,Pending,7
+4879,InterContinental Singapore,High,6,Charlie,Pending,7
+4899,InterContinental Singapore,High,6,David,Pending,7
+4973,InterContinental Singapore,High,6,Emma,Pending,7
+5038,Hotel Jen Tanglin Singapore,High,6,Frank,Pending,7
+5345,PARKROYAL on Kitchener Road,High,6,Grace,Pending,7
+5375,PARKROYAL on Kitchener Road,High,6,Henry,Pending,7
+5775,PARKROYAL on Kitchener Road,High,6,Ivy,Pending,7
+5825,PARKROYAL on Kitchener Road,High,6,Jack,Pending,7
+5968,PARKROYAL on Kitchener Road,High,6,Alice,Pending,7
+5972,PARKROYAL on Kitchener Road,High,6,Bob,Pending,7
+5994,PARKROYAL on Kitchener Road,High,6,Charlie,Pending,7
+6045,PARKROYAL on Kitchener Road,High,6,David,Pending,7
+6450,Ramada Singapore At Zhongshan Park,High,6,Emma,Pending,7
+6517,Ramada Singapore At Zhongshan Park,High,6,Frank,Pending,7
+6543,Ramada Singapore At Zhongshan Park,High,6,Grace,Pending,7
+6569,Ramada Singapore At Zhongshan Park,High,6,Henry,Pending,7
+6601,Ramada Singapore At Zhongshan Park,High,6,Ivy,Pending,7
+6785,Ramada Singapore At Zhongshan Park,High,6,Jack,Pending,7
+6988,The St. Regis Singapore,High,6,Alice,Pending,7
+2804,Sunway Resort Hotel Spa,High,7,Bob,Pending,8
+3355,InterContinental Singapore,High,7,Charlie,Pending,8
+3546,InterContinental Singapore,High,7,David,Pending,8
+4217,InterContinental Singapore,High,7,Emma,Pending,8
+4880,InterContinental Singapore,High,7,Frank,Pending,8
+5261,PARKROYAL on Kitchener Road,High,7,Grace,Pending,8
+5338,PARKROYAL on Kitchener Road,High,7,Henry,Pending,8
+5674,PARKROYAL on Kitchener Road,High,7,Ivy,Pending,8
+5702,PARKROYAL on Kitchener Road,High,7,Jack,Pending,8
+5729,PARKROYAL on Kitchener Road,High,7,Alice,Pending,8
+5931,PARKROYAL on Kitchener Road,High,7,Bob,Pending,8
+6009,PARKROYAL on Kitchener Road,High,7,Charlie,Pending,8
+6097,PARKROYAL on Kitchener Road,High,7,David,Pending,8
+6193,PARKROYAL on Kitchener Road,High,7,Emma,Pending,8
+1633,PARKROYAL on Kitchener Road,High,8,Frank,Pending,9
+4010,InterContinental Singapore,High,8,Grace,Pending,9
+4218,InterContinental Singapore,High,8,Henry,Pending,9
+4332,InterContinental Singapore,High,8,Ivy,Pending,9
+4433,InterContinental Singapore,High,8,Jack,Pending,9
+4875,InterContinental Singapore,High,8,Alice,Pending,9
+4907,InterContinental Singapore,High,8,Bob,Pending,9
+5388,PARKROYAL on Kitchener Road,High,8,Charlie,Pending,9
+5647,PARKROYAL on Kitchener Road,High,8,David,Pending,9
+5663,PARKROYAL on Kitchener Road,High,8,Emma,Pending,9
+6059,PARKROYAL on Kitchener Road,High,8,Frank,Pending,9
+6120,PARKROYAL on Kitchener Road,High,8,Grace,Pending,9
+6181,PARKROYAL on Kitchener Road,High,8,Henry,Pending,9
+6194,PARKROYAL on Kitchener Road,High,8,Ivy,Pending,9
+6200,PARKROYAL on Kitchener Road,High,8,Jack,Pending,9
+6301,PARKROYAL on Kitchener Road,High,8,Alice,Pending,9
+6304,PARKROYAL on Kitchener Road,High,8,Bob,Pending,9
+6754,Ramada Singapore At Zhongshan Park,High,8,Charlie,Pending,9
+6978,The St. Regis Singapore,High,8,David,Pending,9
+1860,PARKROYAL on Kitchener Road,High,9,Emma,Pending,10
+3771,InterContinental Singapore,High,9,Frank,Pending,10
+4247,InterContinental Singapore,High,9,Grace,Pending,10
+4311,InterContinental Singapore,High,9,Henry,Pending,10
+5574,PARKROYAL on Kitchener Road,High,9,Ivy,Pending,10
+5645,PARKROYAL on Kitchener Road,High,9,Jack,Pending,10
+5648,PARKROYAL on Kitchener Road,High,9,Alice,Pending,10
+5731,PARKROYAL on Kitchener Road,High,9,Bob,Pending,10
+5852,PARKROYAL on Kitchener Road,High,9,Charlie,Pending,10
+5970,PARKROYAL on Kitchener Road,High,9,David,Pending,10
+6060,PARKROYAL on Kitchener Road,High,9,Emma,Pending,10
+6131,PARKROYAL on Kitchener Road,High,9,Frank,Pending,10
+6529,Ramada Singapore At Zhongshan Park,High,9,Grace,Pending,10
+6578,Ramada Singapore At Zhongshan Park,High,9,Henry,Pending,10
+6652,Ramada Singapore At Zhongshan Park,High,9,Ivy,Pending,10
+6814,Ramada Singapore At Zhongshan Park,High,9,Jack,Pending,10
+2350,The St. Regis Singapore,High,10,Alice,Pending,11
+2646,Sunway Resort Hotel Spa,High,10,Bob,Pending,11
+2700,Sunway Resort Hotel Spa,High,10,Charlie,Pending,11
+2848,Sunway Resort Hotel Spa,High,10,David,Pending,11
+3565,InterContinental Singapore,High,10,Emma,Pending,11
+4003,InterContinental Singapore,High,10,Frank,Pending,11
+5572,PARKROYAL on Kitchener Road,High,10,Grace,Pending,11
+5606,PARKROYAL on Kitchener Road,High,10,Henry,Pending,11
+5884,PARKROYAL on Kitchener Road,High,10,Ivy,Pending,11
+5938,PARKROYAL on Kitchener Road,High,10,Jack,Pending,11
+6068,PARKROYAL on Kitchener Road,High,10,Alice,Pending,11
+6165,PARKROYAL on Kitchener Road,High,10,Bob,Pending,11
+6565,Ramada Singapore At Zhongshan Park,High,10,Charlie,Pending,11
+6801,Ramada Singapore At Zhongshan Park,High,10,David,Pending,11
+1644,PARKROYAL on Kitchener Road,High,11,Emma,Pending,12
+1666,PARKROYAL on Kitchener Road,High,11,Frank,Pending,12
+1698,PARKROYAL on Kitchener Road,High,11,Grace,Pending,12
+1767,PARKROYAL on Kitchener Road,High,11,Henry,Pending,12
+1914,PARKROYAL on Kitchener Road,High,11,Ivy,Pending,12
+2801,Sunway Resort Hotel Spa,High,11,Jack,Pending,12
+3533,InterContinental Singapore,High,11,Alice,Pending,12
+4770,InterContinental Singapore,High,11,Bob,Pending,12
+4920,InterContinental Singapore,High,11,Charlie,Pending,12
+5552,PARKROYAL on Kitchener Road,High,11,David,Pending,12
+5605,PARKROYAL on Kitchener Road,High,11,Emma,Pending,12
+5701,PARKROYAL on Kitchener Road,High,11,Frank,Pending,12
+5767,PARKROYAL on Kitchener Road,High,11,Grace,Pending,12
+5917,PARKROYAL on Kitchener Road,High,11,Henry,Pending,12
+5956,PARKROYAL on Kitchener Road,High,11,Ivy,Pending,12
+6105,PARKROYAL on Kitchener Road,High,11,Jack,Pending,12
+6118,PARKROYAL on Kitchener Road,High,11,Alice,Pending,12
+6188,PARKROYAL on Kitchener Road,High,11,Bob,Pending,12
+6256,PARKROYAL on Kitchener Road,High,11,Charlie,Pending,12
+6407,PARKROYAL on Kitchener Road,High,11,David,Pending,12
+6515,Ramada Singapore At Zhongshan Park,High,11,Emma,Pending,12
+6763,Ramada Singapore At Zhongshan Park,High,11,Frank,Pending,12
+6767,Ramada Singapore At Zhongshan Park,High,11,Grace,Pending,12
+1285,InterContinental Singapore,Medium,6,Henry,Pending,7
+1695,PARKROYAL on Kitchener Road,Medium,6,Ivy,Pending,7
+1969,PARKROYAL on Kitchener Road,Medium,6,Jack,Pending,7
+2273,Ramada Singapore At Zhongshan Park,Medium,6,Alice,Pending,7
+2651,Sunway Resort Hotel Spa,Medium,6,Bob,Pending,7
+2960,InterContinental Singapore,Medium,6,Charlie,Pending,7
+3427,InterContinental Singapore,Medium,6,David,Pending,7
+3602,InterContinental Singapore,Medium,6,Emma,Pending,7
+3608,InterContinental Singapore,Medium,6,Frank,Pending,7
+3610,InterContinental Singapore,Medium,6,Grace,Pending,7
+4225,InterContinental Singapore,Medium,6,Henry,Pending,7
+4244,InterContinental Singapore,Medium,6,Ivy,Pending,7
+4405,InterContinental Singapore,Medium,6,Jack,Pending,7
+4691,InterContinental Singapore,Medium,6,Alice,Pending,7
+4769,InterContinental Singapore,Medium,6,Bob,Pending,7
+4844,InterContinental Singapore,Medium,6,Charlie,Pending,7
+4938,InterContinental Singapore,Medium,6,David,Pending,7
+5305,PARKROYAL on Kitchener Road,Medium,6,Emma,Pending,7
+5696,PARKROYAL on Kitchener Road,Medium,6,Frank,Pending,7
+5728,PARKROYAL on Kitchener Road,Medium,6,Grace,Pending,7
+5843,PARKROYAL on Kitchener Road,Medium,6,Henry,Pending,7
+5940,PARKROYAL on Kitchener Road,Medium,6,Ivy,Pending,7
+5955,PARKROYAL on Kitchener Road,Medium,6,Jack,Pending,7
+6259,PARKROYAL on Kitchener Road,Medium,6,Alice,Pending,7
+6382,PARKROYAL on Kitchener Road,Medium,6,Bob,Pending,7
+6465,Ramada Singapore At Zhongshan Park,Medium,6,Charlie,Pending,7
+6528,Ramada Singapore At Zhongshan Park,Medium,6,David,Pending,7
+6532,Ramada Singapore At Zhongshan Park,Medium,6,Emma,Pending,7
+6568,Ramada Singapore At Zhongshan Park,Medium,6,Frank,Pending,7
+6600,Ramada Singapore At Zhongshan Park,Medium,6,Grace,Pending,7
+6762,Ramada Singapore At Zhongshan Park,Medium,6,Henry,Pending,7
+1563,PARKROYAL on Kitchener Road,Medium,7,Ivy,Pending,8
+1646,PARKROYAL on Kitchener Road,Medium,7,Jack,Pending,8
+2066,Ramada Singapore At Zhongshan Park,Medium,7,Alice,Pending,8
+2575,The St. Regis Singapore,Medium,7,Bob,Pending,8
+2781,Sunway Resort Hotel Spa,Medium,7,Charlie,Pending,8
+3459,InterContinental Singapore,Medium,7,David,Pending,8
+3554,InterContinental Singapore,Medium,7,Emma,Pending,8
+3703,InterContinental Singapore,Medium,7,Frank,Pending,8
+3778,InterContinental Singapore,Medium,7,Grace,Pending,8
+3782,InterContinental Singapore,Medium,7,Henry,Pending,8
+3831,InterContinental Singapore,Medium,7,Ivy,Pending,8
+3947,InterContinental Singapore,Medium,7,Jack,Pending,8
+4084,InterContinental Singapore,Medium,7,Alice,Pending,8
+4124,InterContinental Singapore,Medium,7,Bob,Pending,8
+4535,InterContinental Singapore,Medium,7,Charlie,Pending,8
+4610,InterContinental Singapore,Medium,7,David,Pending,8
+4743,InterContinental Singapore,Medium,7,Emma,Pending,8
+4872,InterContinental Singapore,Medium,7,Frank,Pending,8
+5135,PARKROYAL on Kitchener Road,Medium,7,Grace,Pending,8
+5333,PARKROYAL on Kitchener Road,Medium,7,Henry,Pending,8
+5348,PARKROYAL on Kitchener Road,Medium,7,Ivy,Pending,8
+5432,PARKROYAL on Kitchener Road,Medium,7,Jack,Pending,8
+5509,PARKROYAL on Kitchener Road,Medium,7,Alice,Pending,8
+5554,PARKROYAL on Kitchener Road,Medium,7,Bob,Pending,8
+5581,PARKROYAL on Kitchener Road,Medium,7,Charlie,Pending,8
+5633,PARKROYAL on Kitchener Road,Medium,7,David,Pending,8
+5650,PARKROYAL on Kitchener Road,Medium,7,Emma,Pending,8
+5792,PARKROYAL on Kitchener Road,Medium,7,Frank,Pending,8
+5966,PARKROYAL on Kitchener Road,Medium,7,Grace,Pending,8
+6046,PARKROYAL on Kitchener Road,Medium,7,Henry,Pending,8
+6153,PARKROYAL on Kitchener Road,Medium,7,Ivy,Pending,8
+6224,PARKROYAL on Kitchener Road,Medium,7,Jack,Pending,8
+6332,PARKROYAL on Kitchener Road,Medium,7,Alice,Pending,8
+6549,Ramada Singapore At Zhongshan Park,Medium,7,Bob,Pending,8
+6556,Ramada Singapore At Zhongshan Park,Medium,7,Charlie,Pending,8
+6651,Ramada Singapore At Zhongshan Park,Medium,7,David,Pending,8
+6691,Ramada Singapore At Zhongshan Park,Medium,7,Emma,Pending,8
+6716,Ramada Singapore At Zhongshan Park,Medium,7,Frank,Pending,8
+6794,Ramada Singapore At Zhongshan Park,Medium,7,Grace,Pending,8
+6884,The St. Regis Singapore,Medium,7,Henry,Pending,8
+6916,The St. Regis Singapore,Medium,7,Ivy,Pending,8
+6992,The St. Regis Singapore,Medium,7,Jack,Pending,8
+1037,InterContinental Singapore,Medium,8,Alice,Pending,9
+2182,Ramada Singapore At Zhongshan Park,Medium,8,Bob,Pending,9
+3978,InterContinental Singapore,Medium,8,Charlie,Pending,9
+4032,InterContinental Singapore,Medium,8,David,Pending,9
+4470,InterContinental Singapore,Medium,8,Emma,Pending,9
+4558,InterContinental Singapore,Medium,8,Frank,Pending,9
+4601,InterContinental Singapore,Medium,8,Grace,Pending,9
+5076,Hotel Jen Tanglin Singapore,Medium,8,Henry,Pending,9
+5340,PARKROYAL on Kitchener Road,Medium,8,Ivy,Pending,9
+5376,PARKROYAL on Kitchener Road,Medium,8,Jack,Pending,9
+5713,PARKROYAL on Kitchener Road,Medium,8,Alice,Pending,9
+5764,PARKROYAL on Kitchener Road,Medium,8,Bob,Pending,9
+5773,PARKROYAL on Kitchener Road,Medium,8,Charlie,Pending,9
+5901,PARKROYAL on Kitchener Road,Medium,8,David,Pending,9
+5915,PARKROYAL on Kitchener Road,Medium,8,Emma,Pending,9
+5977,PARKROYAL on Kitchener Road,Medium,8,Frank,Pending,9
+5984,PARKROYAL on Kitchener Road,Medium,8,Grace,Pending,9
+5989,PARKROYAL on Kitchener Road,Medium,8,Henry,Pending,9
+6067,PARKROYAL on Kitchener Road,Medium,8,Ivy,Pending,9
+6174,PARKROYAL on Kitchener Road,Medium,8,Jack,Pending,9
+6195,PARKROYAL on Kitchener Road,Medium,8,Alice,Pending,9
+6347,PARKROYAL on Kitchener Road,Medium,8,Bob,Pending,9
+6489,Ramada Singapore At Zhongshan Park,Medium,8,Charlie,Pending,9
+6518,Ramada Singapore At Zhongshan Park,Medium,8,David,Pending,9
+6566,Ramada Singapore At Zhongshan Park,Medium,8,Emma,Pending,9
+6644,Ramada Singapore At Zhongshan Park,Medium,8,Frank,Pending,9
+6687,Ramada Singapore At Zhongshan Park,Medium,8,Grace,Pending,9
+6709,Ramada Singapore At Zhongshan Park,Medium,8,Henry,Pending,9
+1369,InterContinental Singapore,Medium,9,Ivy,Pending,10
+2601,The St. Regis Singapore,Medium,9,Jack,Pending,10
+3433,InterContinental Singapore,Medium,9,Alice,Pending,10
+3472,InterContinental Singapore,Medium,9,Bob,Pending,10
+3526,InterContinental Singapore,Medium,9,Charlie,Pending,10
+3674,InterContinental Singapore,Medium,9,David,Pending,10
+3715,InterContinental Singapore,Medium,9,Emma,Pending,10
+3972,InterContinental Singapore,Medium,9,Frank,Pending,10
+4282,InterContinental Singapore,Medium,9,Grace,Pending,10
+4404,InterContinental Singapore,Medium,9,Henry,Pending,10
+4928,InterContinental Singapore,Medium,9,Ivy,Pending,10
+4966,InterContinental Singapore,Medium,9,Jack,Pending,10
+5215,PARKROYAL on Kitchener Road,Medium,9,Alice,Pending,10
+5598,PARKROYAL on Kitchener Road,Medium,9,Bob,Pending,10
+5873,PARKROYAL on Kitchener Road,Medium,9,Charlie,Pending,10
+5905,PARKROYAL on Kitchener Road,Medium,9,David,Pending,10
+6115,PARKROYAL on Kitchener Road,Medium,9,Emma,Pending,10
+6127,PARKROYAL on Kitchener Road,Medium,9,Frank,Pending,10
+6183,PARKROYAL on Kitchener Road,Medium,9,Grace,Pending,10
+6242,PARKROYAL on Kitchener Road,Medium,9,Henry,Pending,10
+6355,PARKROYAL on Kitchener Road,Medium,9,Ivy,Pending,10
+6521,Ramada Singapore At Zhongshan Park,Medium,9,Jack,Pending,10
+6598,Ramada Singapore At Zhongshan Park,Medium,9,Alice,Pending,10
+6602,Ramada Singapore At Zhongshan Park,Medium,9,Bob,Pending,10
+6666,Ramada Singapore At Zhongshan Park,Medium,9,Charlie,Pending,10
+6989,The St. Regis Singapore,Medium,9,David,Pending,10
+3644,InterContinental Singapore,Medium,10,Emma,Pending,11
+3665,InterContinental Singapore,Medium,10,Frank,Pending,11
+3808,InterContinental Singapore,Medium,10,Grace,Pending,11
+3904,InterContinental Singapore,Medium,10,Henry,Pending,11
+4070,InterContinental Singapore,Medium,10,Ivy,Pending,11
+4465,InterContinental Singapore,Medium,10,Jack,Pending,11
+4509,InterContinental Singapore,Medium,10,Alice,Pending,11
+4646,InterContinental Singapore,Medium,10,Bob,Pending,11
+4815,InterContinental Singapore,Medium,10,Charlie,Pending,11
+5127,PARKROYAL on Kitchener Road,Medium,10,David,Pending,11
+5260,PARKROYAL on Kitchener Road,Medium,10,Emma,Pending,11
+5324,PARKROYAL on Kitchener Road,Medium,10,Frank,Pending,11
+5408,PARKROYAL on Kitchener Road,Medium,10,Grace,Pending,11
+5483,PARKROYAL on Kitchener Road,Medium,10,Henry,Pending,11
+5535,PARKROYAL on Kitchener Road,Medium,10,Ivy,Pending,11
+5739,PARKROYAL on Kitchener Road,Medium,10,Jack,Pending,11
+5849,PARKROYAL on Kitchener Road,Medium,10,Alice,Pending,11
+5946,PARKROYAL on Kitchener Road,Medium,10,Bob,Pending,11
+5991,PARKROYAL on Kitchener Road,Medium,10,Charlie,Pending,11
+6058,PARKROYAL on Kitchener Road,Medium,10,David,Pending,11
+6184,PARKROYAL on Kitchener Road,Medium,10,Emma,Pending,11
+6209,PARKROYAL on Kitchener Road,Medium,10,Frank,Pending,11
+6241,PARKROYAL on Kitchener Road,Medium,10,Grace,Pending,11
+6314,PARKROYAL on Kitchener Road,Medium,10,Henry,Pending,11
+6496,Ramada Singapore At Zhongshan Park,Medium,10,Ivy,Pending,11
+6500,Ramada Singapore At Zhongshan Park,Medium,10,Jack,Pending,11
+6514,Ramada Singapore At Zhongshan Park,Medium,10,Alice,Pending,11
+6674,Ramada Singapore At Zhongshan Park,Medium,10,Bob,Pending,11
+6712,Ramada Singapore At Zhongshan Park,Medium,10,Charlie,Pending,11
+6857,The St. Regis Singapore,Medium,10,David,Pending,11
+1490,InterContinental Singapore,Medium,11,Emma,Pending,12
+1810,PARKROYAL on Kitchener Road,Medium,11,Frank,Pending,12
+1945,PARKROYAL on Kitchener Road,Medium,11,Grace,Pending,12
+2634,Sunway Resort Hotel Spa,Medium,11,Henry,Pending,12
+2952,InterContinental Singapore,Medium,11,Ivy,Pending,12
+3798,InterContinental Singapore,Medium,11,Jack,Pending,12
+3803,InterContinental Singapore,Medium,11,Alice,Pending,12
+3876,InterContinental Singapore,Medium,11,Bob,Pending,12
+3956,InterContinental Singapore,Medium,11,Charlie,Pending,12
+4229,InterContinental Singapore,Medium,11,David,Pending,12
+4386,InterContinental Singapore,Medium,11,Emma,Pending,12
+4538,InterContinental Singapore,Medium,11,Frank,Pending,12
+4597,InterContinental Singapore,Medium,11,Grace,Pending,12
+4708,InterContinental Singapore,Medium,11,Henry,Pending,12
+4868,InterContinental Singapore,Medium,11,Ivy,Pending,12
+4893,InterContinental Singapore,Medium,11,Jack,Pending,12
+5009,Hotel Jen Tanglin Singapore,Medium,11,Alice,Pending,12
+5210,PARKROYAL on Kitchener Road,Medium,11,Bob,Pending,12
+5416,PARKROYAL on Kitchener Road,Medium,11,Charlie,Pending,12
+5651,PARKROYAL on Kitchener Road,Medium,11,David,Pending,12
+5704,PARKROYAL on Kitchener Road,Medium,11,Emma,Pending,12
+5738,PARKROYAL on Kitchener Road,Medium,11,Frank,Pending,12
+5863,PARKROYAL on Kitchener Road,Medium,11,Grace,Pending,12
+5896,PARKROYAL on Kitchener Road,Medium,11,Henry,Pending,12
+6122,PARKROYAL on Kitchener Road,Medium,11,Ivy,Pending,12
+6143,PARKROYAL on Kitchener Road,Medium,11,Jack,Pending,12
+6378,PARKROYAL on Kitchener Road,Medium,11,Alice,Pending,12
+6444,Ramada Singapore At Zhongshan Park,Medium,11,Bob,Pending,12
+6449,Ramada Singapore At Zhongshan Park,Medium,11,Charlie,Pending,12
+6550,Ramada Singapore At Zhongshan Park,Medium,11,David,Pending,12
+6711,Ramada Singapore At Zhongshan Park,Medium,11,Emma,Pending,12
+6720,Ramada Singapore At Zhongshan Park,Medium,11,Frank,Pending,12
+6753,Ramada Singapore At Zhongshan Park,Medium,11,Grace,Pending,12
+6772,Ramada Singapore At Zhongshan Park,Medium,11,Henry,Pending,12
+1134,InterContinental Singapore,Low,6,Ivy,Pending,7
+1291,InterContinental Singapore,Low,6,Jack,Pending,7
+1340,InterContinental Singapore,Low,6,Alice,Pending,7
+1349,InterContinental Singapore,Low,6,Bob,Pending,7
+1388,InterContinental Singapore,Low,6,Charlie,Pending,7
+1473,InterContinental Singapore,Low,6,David,Pending,7
+1515,InterContinental Singapore,Low,6,Emma,Pending,7
+1520,Hotel Jen Tanglin Singapore,Low,6,Frank,Pending,7
+1587,PARKROYAL on Kitchener Road,Low,6,Grace,Pending,7
+2124,Ramada Singapore At Zhongshan Park,Low,6,Henry,Pending,7
+2206,Ramada Singapore At Zhongshan Park,Low,6,Ivy,Pending,7
+2226,Ramada Singapore At Zhongshan Park,Low,6,Jack,Pending,7
+2370,The St. Regis Singapore,Low,6,Alice,Pending,7
+2479,The St. Regis Singapore,Low,6,Bob,Pending,7
+2484,The St. Regis Singapore,Low,6,Charlie,Pending,7
+2485,The St. Regis Singapore,Low,6,David,Pending,7
+2486,The St. Regis Singapore,Low,6,Emma,Pending,7
+2510,The St. Regis Singapore,Low,6,Frank,Pending,7
+2518,The St. Regis Singapore,Low,6,Grace,Pending,7
+2524,The St. Regis Singapore,Low,6,Henry,Pending,7
+2619,Sunway Resort Hotel Spa,Low,6,Ivy,Pending,7
+2654,Sunway Resort Hotel Spa,Low,6,Jack,Pending,7
+2926,InterContinental Singapore,Low,6,Alice,Pending,7
+2939,InterContinental Singapore,Low,6,Bob,Pending,7
+3111,InterContinental Singapore,Low,6,Charlie,Pending,7
+3151,InterContinental Singapore,Low,6,David,Pending,7
+3268,InterContinental Singapore,Low,6,Emma,Pending,7
+3397,InterContinental Singapore,Low,6,Frank,Pending,7
+3424,InterContinental Singapore,Low,6,Grace,Pending,7
+3482,InterContinental Singapore,Low,6,Henry,Pending,7
+3483,InterContinental Singapore,Low,6,Ivy,Pending,7
+3499,InterContinental Singapore,Low,6,Jack,Pending,7
+3508,InterContinental Singapore,Low,6,Alice,Pending,7
+3693,InterContinental Singapore,Low,6,Bob,Pending,7
+3694,InterContinental Singapore,Low,6,Charlie,Pending,7
+3695,InterContinental Singapore,Low,6,David,Pending,7
+3697,InterContinental Singapore,Low,6,Emma,Pending,7
+3714,InterContinental Singapore,Low,6,Frank,Pending,7
+3729,InterContinental Singapore,Low,6,Grace,Pending,7
+3751,InterContinental Singapore,Low,6,Henry,Pending,7
+3752,InterContinental Singapore,Low,6,Ivy,Pending,7
+3789,InterContinental Singapore,Low,6,Jack,Pending,7
+3846,InterContinental Singapore,Low,6,Alice,Pending,7
+3854,InterContinental Singapore,Low,6,Bob,Pending,7
+3860,InterContinental Singapore,Low,6,Charlie,Pending,7
+3869,InterContinental Singapore,Low,6,David,Pending,7
+3910,InterContinental Singapore,Low,6,Emma,Pending,7
+3930,InterContinental Singapore,Low,6,Frank,Pending,7
+3958,InterContinental Singapore,Low,6,Grace,Pending,7
+4038,InterContinental Singapore,Low,6,Henry,Pending,7
+4042,InterContinental Singapore,Low,6,Ivy,Pending,7
+4074,InterContinental Singapore,Low,6,Jack,Pending,7
+4080,InterContinental Singapore,Low,6,Alice,Pending,7
+4082,InterContinental Singapore,Low,6,Bob,Pending,7
+4083,InterContinental Singapore,Low,6,Charlie,Pending,7
+4101,InterContinental Singapore,Low,6,David,Pending,7
+4113,InterContinental Singapore,Low,6,Emma,Pending,7
+4158,InterContinental Singapore,Low,6,Frank,Pending,7
+4190,InterContinental Singapore,Low,6,Grace,Pending,7
+4192,InterContinental Singapore,Low,6,Henry,Pending,7
+4207,InterContinental Singapore,Low,6,Ivy,Pending,7
+4274,InterContinental Singapore,Low,6,Jack,Pending,7
+4315,InterContinental Singapore,Low,6,Alice,Pending,7
+4352,InterContinental Singapore,Low,6,Bob,Pending,7
+4367,InterContinental Singapore,Low,6,Charlie,Pending,7
+4391,InterContinental Singapore,Low,6,David,Pending,7
+4421,InterContinental Singapore,Low,6,Emma,Pending,7
+4448,InterContinental Singapore,Low,6,Frank,Pending,7
+4463,InterContinental Singapore,Low,6,Grace,Pending,7
+4547,InterContinental Singapore,Low,6,Henry,Pending,7
+4554,InterContinental Singapore,Low,6,Ivy,Pending,7
+4565,InterContinental Singapore,Low,6,Jack,Pending,7
+4566,InterContinental Singapore,Low,6,Alice,Pending,7
+4580,InterContinental Singapore,Low,6,Bob,Pending,7
+4615,InterContinental Singapore,Low,6,Charlie,Pending,7
+4623,InterContinental Singapore,Low,6,David,Pending,7
+4643,InterContinental Singapore,Low,6,Emma,Pending,7
+4644,InterContinental Singapore,Low,6,Frank,Pending,7
+4690,InterContinental Singapore,Low,6,Grace,Pending,7
+4704,InterContinental Singapore,Low,6,Henry,Pending,7
+4727,InterContinental Singapore,Low,6,Ivy,Pending,7
+4774,InterContinental Singapore,Low,6,Jack,Pending,7
+4793,InterContinental Singapore,Low,6,Alice,Pending,7
+4900,InterContinental Singapore,Low,6,Bob,Pending,7
+4908,InterContinental Singapore,Low,6,Charlie,Pending,7
+4978,InterContinental Singapore,Low,6,David,Pending,7
+4985,Hotel Jen Tanglin Singapore,Low,6,Emma,Pending,7
+4992,Hotel Jen Tanglin Singapore,Low,6,Frank,Pending,7
+5027,Hotel Jen Tanglin Singapore,Low,6,Grace,Pending,7
+5105,PARKROYAL on Kitchener Road,Low,6,Henry,Pending,7
+5110,PARKROYAL on Kitchener Road,Low,6,Ivy,Pending,7
+5125,PARKROYAL on Kitchener Road,Low,6,Jack,Pending,7
+5151,PARKROYAL on Kitchener Road,Low,6,Alice,Pending,7
+5157,PARKROYAL on Kitchener Road,Low,6,Bob,Pending,7
+5171,PARKROYAL on Kitchener Road,Low,6,Charlie,Pending,7
+5172,PARKROYAL on Kitchener Road,Low,6,David,Pending,7
+5190,PARKROYAL on Kitchener Road,Low,6,Emma,Pending,7
+5254,PARKROYAL on Kitchener Road,Low,6,Frank,Pending,7
+5267,PARKROYAL on Kitchener Road,Low,6,Grace,Pending,7
+5320,PARKROYAL on Kitchener Road,Low,6,Henry,Pending,7
+5330,PARKROYAL on Kitchener Road,Low,6,Ivy,Pending,7
+5342,PARKROYAL on Kitchener Road,Low,6,Jack,Pending,7
+5350,PARKROYAL on Kitchener Road,Low,6,Alice,Pending,7
+5380,PARKROYAL on Kitchener Road,Low,6,Bob,Pending,7
+5406,PARKROYAL on Kitchener Road,Low,6,Charlie,Pending,7
+5407,PARKROYAL on Kitchener Road,Low,6,David,Pending,7
+5463,PARKROYAL on Kitchener Road,Low,6,Emma,Pending,7
+5486,PARKROYAL on Kitchener Road,Low,6,Frank,Pending,7
+5499,PARKROYAL on Kitchener Road,Low,6,Grace,Pending,7
+5510,PARKROYAL on Kitchener Road,Low,6,Henry,Pending,7
+5550,PARKROYAL on Kitchener Road,Low,6,Ivy,Pending,7
+5569,PARKROYAL on Kitchener Road,Low,6,Jack,Pending,7
+5590,PARKROYAL on Kitchener Road,Low,6,Alice,Pending,7
+5623,PARKROYAL on Kitchener Road,Low,6,Bob,Pending,7
+5685,PARKROYAL on Kitchener Road,Low,6,Charlie,Pending,7
+5727,PARKROYAL on Kitchener Road,Low,6,David,Pending,7
+5748,PARKROYAL on Kitchener Road,Low,6,Emma,Pending,7
+5770,PARKROYAL on Kitchener Road,Low,6,Frank,Pending,7
+5774,PARKROYAL on Kitchener Road,Low,6,Grace,Pending,7
+5819,PARKROYAL on Kitchener Road,Low,6,Henry,Pending,7
+5848,PARKROYAL on Kitchener Road,Low,6,Ivy,Pending,7
+5922,PARKROYAL on Kitchener Road,Low,6,Jack,Pending,7
+5971,PARKROYAL on Kitchener Road,Low,6,Alice,Pending,7
+5976,PARKROYAL on Kitchener Road,Low,6,Bob,Pending,7
+6066,PARKROYAL on Kitchener Road,Low,6,Charlie,Pending,7
+6227,PARKROYAL on Kitchener Road,Low,6,David,Pending,7
+6321,PARKROYAL on Kitchener Road,Low,6,Emma,Pending,7
+6386,PARKROYAL on Kitchener Road,Low,6,Frank,Pending,7
+6480,Ramada Singapore At Zhongshan Park,Low,6,Grace,Pending,7
+6499,Ramada Singapore At Zhongshan Park,Low,6,Henry,Pending,7
+6520,Ramada Singapore At Zhongshan Park,Low,6,Ivy,Pending,7
+6612,Ramada Singapore At Zhongshan Park,Low,6,Jack,Pending,7
+6615,Ramada Singapore At Zhongshan Park,Low,6,Alice,Pending,7
+6686,Ramada Singapore At Zhongshan Park,Low,6,Bob,Pending,7
+6717,Ramada Singapore At Zhongshan Park,Low,6,Charlie,Pending,7
+6734,Ramada Singapore At Zhongshan Park,Low,6,David,Pending,7
+6797,Ramada Singapore At Zhongshan Park,Low,6,Emma,Pending,7
+6849,The St. Regis Singapore,Low,6,Frank,Pending,7
+6898,The St. Regis Singapore,Low,6,Grace,Pending,7
+6935,The St. Regis Singapore,Low,6,Henry,Pending,7
+6948,The St. Regis Singapore,Low,6,Ivy,Pending,7
+6952,The St. Regis Singapore,Low,6,Jack,Pending,7
+1079,InterContinental Singapore,Low,7,Alice,Pending,8
+1504,InterContinental Singapore,Low,7,Bob,Pending,8
+1551,PARKROYAL on Kitchener Road,Low,7,Charlie,Pending,8
+1639,PARKROYAL on Kitchener Road,Low,7,David,Pending,8
+1991,PARKROYAL on Kitchener Road,Low,7,Emma,Pending,8
+2233,Ramada Singapore At Zhongshan Park,Low,7,Frank,Pending,8
+2371,The St. Regis Singapore,Low,7,Grace,Pending,8
+2376,The St. Regis Singapore,Low,7,Henry,Pending,8
+2421,The St. Regis Singapore,Low,7,Ivy,Pending,8
+2428,The St. Regis Singapore,Low,7,Jack,Pending,8
+2436,The St. Regis Singapore,Low,7,Alice,Pending,8
+2466,The St. Regis Singapore,Low,7,Bob,Pending,8
+2527,The St. Regis Singapore,Low,7,Charlie,Pending,8
+2531,The St. Regis Singapore,Low,7,David,Pending,8
+2569,The St. Regis Singapore,Low,7,Emma,Pending,8
+2578,The St. Regis Singapore,Low,7,Frank,Pending,8
+2598,The St. Regis Singapore,Low,7,Grace,Pending,8
+2655,Sunway Resort Hotel Spa,Low,7,Henry,Pending,8
+2791,Sunway Resort Hotel Spa,Low,7,Ivy,Pending,8
+2802,Sunway Resort Hotel Spa,Low,7,Jack,Pending,8
+2940,InterContinental Singapore,Low,7,Alice,Pending,8
+3163,InterContinental Singapore,Low,7,Bob,Pending,8
+3190,InterContinental Singapore,Low,7,Charlie,Pending,8
+3248,InterContinental Singapore,Low,7,David,Pending,8
+3266,InterContinental Singapore,Low,7,Emma,Pending,8
+3320,InterContinental Singapore,Low,7,Frank,Pending,8
+3330,InterContinental Singapore,Low,7,Grace,Pending,8
+3374,InterContinental Singapore,Low,7,Henry,Pending,8
+3401,InterContinental Singapore,Low,7,Ivy,Pending,8
+3403,InterContinental Singapore,Low,7,Jack,Pending,8
+3413,InterContinental Singapore,Low,7,Alice,Pending,8
+3489,InterContinental Singapore,Low,7,Bob,Pending,8
+3502,InterContinental Singapore,Low,7,Charlie,Pending,8
+3525,InterContinental Singapore,Low,7,David,Pending,8
+3551,InterContinental Singapore,Low,7,Emma,Pending,8
+3552,InterContinental Singapore,Low,7,Frank,Pending,8
+3576,InterContinental Singapore,Low,7,Grace,Pending,8
+3603,InterContinental Singapore,Low,7,Henry,Pending,8
+3653,InterContinental Singapore,Low,7,Ivy,Pending,8
+3654,InterContinental Singapore,Low,7,Jack,Pending,8
+3689,InterContinental Singapore,Low,7,Alice,Pending,8
+3691,InterContinental Singapore,Low,7,Bob,Pending,8
+3788,InterContinental Singapore,Low,7,Charlie,Pending,8
+3790,InterContinental Singapore,Low,7,David,Pending,8
+3807,InterContinental Singapore,Low,7,Emma,Pending,8
+3849,InterContinental Singapore,Low,7,Frank,Pending,8
+3882,InterContinental Singapore,Low,7,Grace,Pending,8
+3899,InterContinental Singapore,Low,7,Henry,Pending,8
+3923,InterContinental Singapore,Low,7,Ivy,Pending,8
+3991,InterContinental Singapore,Low,7,Jack,Pending,8
+3994,InterContinental Singapore,Low,7,Alice,Pending,8
+4009,InterContinental Singapore,Low,7,Bob,Pending,8
+4028,InterContinental Singapore,Low,7,Charlie,Pending,8
+4037,InterContinental Singapore,Low,7,David,Pending,8
+4047,InterContinental Singapore,Low,7,Emma,Pending,8
+4069,InterContinental Singapore,Low,7,Frank,Pending,8
+4111,InterContinental Singapore,Low,7,Grace,Pending,8
+4114,InterContinental Singapore,Low,7,Henry,Pending,8
+4115,InterContinental Singapore,Low,7,Ivy,Pending,8
+4130,InterContinental Singapore,Low,7,Jack,Pending,8
+4176,InterContinental Singapore,Low,7,Alice,Pending,8
+4182,InterContinental Singapore,Low,7,Bob,Pending,8
+4213,InterContinental Singapore,Low,7,Charlie,Pending,8
+4251,InterContinental Singapore,Low,7,David,Pending,8
+4269,InterContinental Singapore,Low,7,Emma,Pending,8
+4285,InterContinental Singapore,Low,7,Frank,Pending,8
+4313,InterContinental Singapore,Low,7,Grace,Pending,8
+4337,InterContinental Singapore,Low,7,Henry,Pending,8
+4444,InterContinental Singapore,Low,7,Ivy,Pending,8
+4445,InterContinental Singapore,Low,7,Jack,Pending,8
+4525,InterContinental Singapore,Low,7,Alice,Pending,8
+4536,InterContinental Singapore,Low,7,Bob,Pending,8
+4555,InterContinental Singapore,Low,7,Charlie,Pending,8
+4578,InterContinental Singapore,Low,7,David,Pending,8
+4587,InterContinental Singapore,Low,7,Emma,Pending,8
+4624,InterContinental Singapore,Low,7,Frank,Pending,8
+4671,InterContinental Singapore,Low,7,Grace,Pending,8
+4688,InterContinental Singapore,Low,7,Henry,Pending,8
+4706,InterContinental Singapore,Low,7,Ivy,Pending,8
+4740,InterContinental Singapore,Low,7,Jack,Pending,8
+4782,InterContinental Singapore,Low,7,Alice,Pending,8
+4792,InterContinental Singapore,Low,7,Bob,Pending,8
+4826,InterContinental Singapore,Low,7,Charlie,Pending,8
+4827,InterContinental Singapore,Low,7,David,Pending,8
+4831,InterContinental Singapore,Low,7,Emma,Pending,8
+4857,InterContinental Singapore,Low,7,Frank,Pending,8
+4886,InterContinental Singapore,Low,7,Grace,Pending,8
+4890,InterContinental Singapore,Low,7,Henry,Pending,8
+4914,InterContinental Singapore,Low,7,Ivy,Pending,8
+4943,InterContinental Singapore,Low,7,Jack,Pending,8
+4979,InterContinental Singapore,Low,7,Alice,Pending,8
+4980,InterContinental Singapore,Low,7,Bob,Pending,8
+4986,Hotel Jen Tanglin Singapore,Low,7,Charlie,Pending,8
+5013,Hotel Jen Tanglin Singapore,Low,7,David,Pending,8
+5037,Hotel Jen Tanglin Singapore,Low,7,Emma,Pending,8
+5040,Hotel Jen Tanglin Singapore,Low,7,Frank,Pending,8
+5154,PARKROYAL on Kitchener Road,Low,7,Grace,Pending,8
+5180,PARKROYAL on Kitchener Road,Low,7,Henry,Pending,8
+5183,PARKROYAL on Kitchener Road,Low,7,Ivy,Pending,8
+5223,PARKROYAL on Kitchener Road,Low,7,Jack,Pending,8
+5240,PARKROYAL on Kitchener Road,Low,7,Alice,Pending,8
+5253,PARKROYAL on Kitchener Road,Low,7,Bob,Pending,8
+5258,PARKROYAL on Kitchener Road,Low,7,Charlie,Pending,8
+5259,PARKROYAL on Kitchener Road,Low,7,David,Pending,8
+5270,PARKROYAL on Kitchener Road,Low,7,Emma,Pending,8
+5277,PARKROYAL on Kitchener Road,Low,7,Frank,Pending,8
+5285,PARKROYAL on Kitchener Road,Low,7,Grace,Pending,8
+5287,PARKROYAL on Kitchener Road,Low,7,Henry,Pending,8
+5328,PARKROYAL on Kitchener Road,Low,7,Ivy,Pending,8
+5359,PARKROYAL on Kitchener Road,Low,7,Jack,Pending,8
+5369,PARKROYAL on Kitchener Road,Low,7,Alice,Pending,8
+5391,PARKROYAL on Kitchener Road,Low,7,Bob,Pending,8
+5433,PARKROYAL on Kitchener Road,Low,7,Charlie,Pending,8
+5455,PARKROYAL on Kitchener Road,Low,7,David,Pending,8
+5460,PARKROYAL on Kitchener Road,Low,7,Emma,Pending,8
+5482,PARKROYAL on Kitchener Road,Low,7,Frank,Pending,8
+5487,PARKROYAL on Kitchener Road,Low,7,Grace,Pending,8
+5506,PARKROYAL on Kitchener Road,Low,7,Henry,Pending,8
+5542,PARKROYAL on Kitchener Road,Low,7,Ivy,Pending,8
+5600,PARKROYAL on Kitchener Road,Low,7,Jack,Pending,8
+5604,PARKROYAL on Kitchener Road,Low,7,Alice,Pending,8
+5611,PARKROYAL on Kitchener Road,Low,7,Bob,Pending,8
+5627,PARKROYAL on Kitchener Road,Low,7,Charlie,Pending,8
+5628,PARKROYAL on Kitchener Road,Low,7,David,Pending,8
+5683,PARKROYAL on Kitchener Road,Low,7,Emma,Pending,8
+5707,PARKROYAL on Kitchener Road,Low,7,Frank,Pending,8
+5747,PARKROYAL on Kitchener Road,Low,7,Grace,Pending,8
+5761,PARKROYAL on Kitchener Road,Low,7,Henry,Pending,8
+5787,PARKROYAL on Kitchener Road,Low,7,Ivy,Pending,8
+5842,PARKROYAL on Kitchener Road,Low,7,Jack,Pending,8
+5846,PARKROYAL on Kitchener Road,Low,7,Alice,Pending,8
+5856,PARKROYAL on Kitchener Road,Low,7,Bob,Pending,8
+5857,PARKROYAL on Kitchener Road,Low,7,Charlie,Pending,8
+5887,PARKROYAL on Kitchener Road,Low,7,David,Pending,8
+5903,PARKROYAL on Kitchener Road,Low,7,Emma,Pending,8
+5944,PARKROYAL on Kitchener Road,Low,7,Frank,Pending,8
+5997,PARKROYAL on Kitchener Road,Low,7,Grace,Pending,8
+6016,PARKROYAL on Kitchener Road,Low,7,Henry,Pending,8
+6076,PARKROYAL on Kitchener Road,Low,7,Ivy,Pending,8
+6199,PARKROYAL on Kitchener Road,Low,7,Jack,Pending,8
+6216,PARKROYAL on Kitchener Road,Low,7,Alice,Pending,8
+6265,PARKROYAL on Kitchener Road,Low,7,Bob,Pending,8
+6276,PARKROYAL on Kitchener Road,Low,7,Charlie,Pending,8
+6287,PARKROYAL on Kitchener Road,Low,7,David,Pending,8
+6330,PARKROYAL on Kitchener Road,Low,7,Emma,Pending,8
+6333,PARKROYAL on Kitchener Road,Low,7,Frank,Pending,8
+6338,PARKROYAL on Kitchener Road,Low,7,Grace,Pending,8
+6488,Ramada Singapore At Zhongshan Park,Low,7,Henry,Pending,8
+6511,Ramada Singapore At Zhongshan Park,Low,7,Ivy,Pending,8
+6522,Ramada Singapore At Zhongshan Park,Low,7,Jack,Pending,8
+6592,Ramada Singapore At Zhongshan Park,Low,7,Alice,Pending,8
+6599,Ramada Singapore At Zhongshan Park,Low,7,Bob,Pending,8
+6606,Ramada Singapore At Zhongshan Park,Low,7,Charlie,Pending,8
+6617,Ramada Singapore At Zhongshan Park,Low,7,David,Pending,8
+6634,Ramada Singapore At Zhongshan Park,Low,7,Emma,Pending,8
+6650,Ramada Singapore At Zhongshan Park,Low,7,Frank,Pending,8
+6661,Ramada Singapore At Zhongshan Park,Low,7,Grace,Pending,8
+6760,Ramada Singapore At Zhongshan Park,Low,7,Henry,Pending,8
+6835,Ramada Singapore At Zhongshan Park,Low,7,Ivy,Pending,8
+6844,Ramada Singapore At Zhongshan Park,Low,7,Jack,Pending,8
+6860,The St. Regis Singapore,Low,7,Alice,Pending,8
+6874,The St. Regis Singapore,Low,7,Bob,Pending,8
+6904,The St. Regis Singapore,Low,7,Charlie,Pending,8
+1041,InterContinental Singapore,Low,8,David,Pending,9
+1157,InterContinental Singapore,Low,8,Emma,Pending,9
+1248,InterContinental Singapore,Low,8,Frank,Pending,9
+1302,InterContinental Singapore,Low,8,Grace,Pending,9
+1346,InterContinental Singapore,Low,8,Henry,Pending,9
+1373,InterContinental Singapore,Low,8,Ivy,Pending,9
+1396,InterContinental Singapore,Low,8,Jack,Pending,9
+1481,InterContinental Singapore,Low,8,Alice,Pending,9
+1547,Hotel Jen Tanglin Singapore,Low,8,Bob,Pending,9
+1549,Hotel Jen Tanglin Singapore,Low,8,Charlie,Pending,9
+1605,PARKROYAL on Kitchener Road,Low,8,David,Pending,9
+1854,PARKROYAL on Kitchener Road,Low,8,Emma,Pending,9
+1884,PARKROYAL on Kitchener Road,Low,8,Frank,Pending,9
+2117,Ramada Singapore At Zhongshan Park,Low,8,Grace,Pending,9
+2129,Ramada Singapore At Zhongshan Park,Low,8,Henry,Pending,9
+2251,Ramada Singapore At Zhongshan Park,Low,8,Ivy,Pending,9
+2374,The St. Regis Singapore,Low,8,Jack,Pending,9
+2469,The St. Regis Singapore,Low,8,Alice,Pending,9
+2549,The St. Regis Singapore,Low,8,Bob,Pending,9
+2558,The St. Regis Singapore,Low,8,Charlie,Pending,9
+2560,The St. Regis Singapore,Low,8,David,Pending,9
+2580,The St. Regis Singapore,Low,8,Emma,Pending,9
+2585,The St. Regis Singapore,Low,8,Frank,Pending,9
+2688,Sunway Resort Hotel Spa,Low,8,Grace,Pending,9
+2734,Sunway Resort Hotel Spa,Low,8,Henry,Pending,9
+2881,Sunway Resort Hotel Spa,Low,8,Ivy,Pending,9
+3064,InterContinental Singapore,Low,8,Jack,Pending,9
+3313,InterContinental Singapore,Low,8,Alice,Pending,9
+3379,InterContinental Singapore,Low,8,Bob,Pending,9
+3411,InterContinental Singapore,Low,8,Charlie,Pending,9
+3422,InterContinental Singapore,Low,8,David,Pending,9
+3440,InterContinental Singapore,Low,8,Emma,Pending,9
+3506,InterContinental Singapore,Low,8,Frank,Pending,9
+3510,InterContinental Singapore,Low,8,Grace,Pending,9
+3520,InterContinental Singapore,Low,8,Henry,Pending,9
+3543,InterContinental Singapore,Low,8,Ivy,Pending,9
+3567,InterContinental Singapore,Low,8,Jack,Pending,9
+3568,InterContinental Singapore,Low,8,Alice,Pending,9
+3609,InterContinental Singapore,Low,8,Bob,Pending,9
+3611,InterContinental Singapore,Low,8,Charlie,Pending,9
+3648,InterContinental Singapore,Low,8,David,Pending,9
+3672,InterContinental Singapore,Low,8,Emma,Pending,9
+3709,InterContinental Singapore,Low,8,Frank,Pending,9
+3711,InterContinental Singapore,Low,8,Grace,Pending,9
+3724,InterContinental Singapore,Low,8,Henry,Pending,9
+3728,InterContinental Singapore,Low,8,Ivy,Pending,9
+3756,InterContinental Singapore,Low,8,Jack,Pending,9
+3797,InterContinental Singapore,Low,8,Alice,Pending,9
+3836,InterContinental Singapore,Low,8,Bob,Pending,9
+3865,InterContinental Singapore,Low,8,Charlie,Pending,9
+3932,InterContinental Singapore,Low,8,David,Pending,9
+3941,InterContinental Singapore,Low,8,Emma,Pending,9
+3963,InterContinental Singapore,Low,8,Frank,Pending,9
+3990,InterContinental Singapore,Low,8,Grace,Pending,9
+3992,InterContinental Singapore,Low,8,Henry,Pending,9
+3995,InterContinental Singapore,Low,8,Ivy,Pending,9
+4049,InterContinental Singapore,Low,8,Jack,Pending,9
+4097,InterContinental Singapore,Low,8,Alice,Pending,9
+4185,InterContinental Singapore,Low,8,Bob,Pending,9
+4186,InterContinental Singapore,Low,8,Charlie,Pending,9
+4205,InterContinental Singapore,Low,8,David,Pending,9
+4264,InterContinental Singapore,Low,8,Emma,Pending,9
+4271,InterContinental Singapore,Low,8,Frank,Pending,9
+4280,InterContinental Singapore,Low,8,Grace,Pending,9
+4286,InterContinental Singapore,Low,8,Henry,Pending,9
+4293,InterContinental Singapore,Low,8,Ivy,Pending,9
+4310,InterContinental Singapore,Low,8,Jack,Pending,9
+4319,InterContinental Singapore,Low,8,Alice,Pending,9
+4328,InterContinental Singapore,Low,8,Bob,Pending,9
+4346,InterContinental Singapore,Low,8,Charlie,Pending,9
+4375,InterContinental Singapore,Low,8,David,Pending,9
+4403,InterContinental Singapore,Low,8,Emma,Pending,9
+4428,InterContinental Singapore,Low,8,Frank,Pending,9
+4441,InterContinental Singapore,Low,8,Grace,Pending,9
+4505,InterContinental Singapore,Low,8,Henry,Pending,9
+4508,InterContinental Singapore,Low,8,Ivy,Pending,9
+4543,InterContinental Singapore,Low,8,Jack,Pending,9
+4571,InterContinental Singapore,Low,8,Alice,Pending,9
+4576,InterContinental Singapore,Low,8,Bob,Pending,9
+4583,InterContinental Singapore,Low,8,Charlie,Pending,9
+4584,InterContinental Singapore,Low,8,David,Pending,9
+4612,InterContinental Singapore,Low,8,Emma,Pending,9
+4640,InterContinental Singapore,Low,8,Frank,Pending,9
+4658,InterContinental Singapore,Low,8,Grace,Pending,9
+4668,InterContinental Singapore,Low,8,Henry,Pending,9
+4685,InterContinental Singapore,Low,8,Ivy,Pending,9
+4744,InterContinental Singapore,Low,8,Jack,Pending,9
+4757,InterContinental Singapore,Low,8,Alice,Pending,9
+4764,InterContinental Singapore,Low,8,Bob,Pending,9
+4813,InterContinental Singapore,Low,8,Charlie,Pending,9
+4838,InterContinental Singapore,Low,8,David,Pending,9
+4894,InterContinental Singapore,Low,8,Emma,Pending,9
+4905,InterContinental Singapore,Low,8,Frank,Pending,9
+4961,InterContinental Singapore,Low,8,Grace,Pending,9
+4994,Hotel Jen Tanglin Singapore,Low,8,Henry,Pending,9
+5003,Hotel Jen Tanglin Singapore,Low,8,Ivy,Pending,9
+5012,Hotel Jen Tanglin Singapore,Low,8,Jack,Pending,9
+5099,PARKROYAL on Kitchener Road,Low,8,Alice,Pending,9
+5103,PARKROYAL on Kitchener Road,Low,8,Bob,Pending,9
+5131,PARKROYAL on Kitchener Road,Low,8,Charlie,Pending,9
+5148,PARKROYAL on Kitchener Road,Low,8,David,Pending,9
+5153,PARKROYAL on Kitchener Road,Low,8,Emma,Pending,9
+5163,PARKROYAL on Kitchener Road,Low,8,Frank,Pending,9
+5221,PARKROYAL on Kitchener Road,Low,8,Grace,Pending,9
+5232,PARKROYAL on Kitchener Road,Low,8,Henry,Pending,9
+5249,PARKROYAL on Kitchener Road,Low,8,Ivy,Pending,9
+5288,PARKROYAL on Kitchener Road,Low,8,Jack,Pending,9
+5294,PARKROYAL on Kitchener Road,Low,8,Alice,Pending,9
+5309,PARKROYAL on Kitchener Road,Low,8,Bob,Pending,9
+5314,PARKROYAL on Kitchener Road,Low,8,Charlie,Pending,9
+5315,PARKROYAL on Kitchener Road,Low,8,David,Pending,9
+5339,PARKROYAL on Kitchener Road,Low,8,Emma,Pending,9
+5355,PARKROYAL on Kitchener Road,Low,8,Frank,Pending,9
+5360,PARKROYAL on Kitchener Road,Low,8,Grace,Pending,9
+5384,PARKROYAL on Kitchener Road,Low,8,Henry,Pending,9
+5443,PARKROYAL on Kitchener Road,Low,8,Ivy,Pending,9
+5459,PARKROYAL on Kitchener Road,Low,8,Jack,Pending,9
+5479,PARKROYAL on Kitchener Road,Low,8,Alice,Pending,9
+5498,PARKROYAL on Kitchener Road,Low,8,Bob,Pending,9
+5505,PARKROYAL on Kitchener Road,Low,8,Charlie,Pending,9
+5514,PARKROYAL on Kitchener Road,Low,8,David,Pending,9
+5680,PARKROYAL on Kitchener Road,Low,8,Emma,Pending,9
+5695,PARKROYAL on Kitchener Road,Low,8,Frank,Pending,9
+5723,PARKROYAL on Kitchener Road,Low,8,Grace,Pending,9
+5740,PARKROYAL on Kitchener Road,Low,8,Henry,Pending,9
+5789,PARKROYAL on Kitchener Road,Low,8,Ivy,Pending,9
+5809,PARKROYAL on Kitchener Road,Low,8,Jack,Pending,9
+5864,PARKROYAL on Kitchener Road,Low,8,Alice,Pending,9
+5919,PARKROYAL on Kitchener Road,Low,8,Bob,Pending,9
+5979,PARKROYAL on Kitchener Road,Low,8,Charlie,Pending,9
+6020,PARKROYAL on Kitchener Road,Low,8,David,Pending,9
+6023,PARKROYAL on Kitchener Road,Low,8,Emma,Pending,9
+6034,PARKROYAL on Kitchener Road,Low,8,Frank,Pending,9
+6056,PARKROYAL on Kitchener Road,Low,8,Grace,Pending,9
+6083,PARKROYAL on Kitchener Road,Low,8,Henry,Pending,9
+6107,PARKROYAL on Kitchener Road,Low,8,Ivy,Pending,9
+6162,PARKROYAL on Kitchener Road,Low,8,Jack,Pending,9
+6164,PARKROYAL on Kitchener Road,Low,8,Alice,Pending,9
+6169,PARKROYAL on Kitchener Road,Low,8,Bob,Pending,9
+6251,PARKROYAL on Kitchener Road,Low,8,Charlie,Pending,9
+6303,PARKROYAL on Kitchener Road,Low,8,David,Pending,9
+6328,PARKROYAL on Kitchener Road,Low,8,Emma,Pending,9
+6434,Ramada Singapore At Zhongshan Park,Low,8,Frank,Pending,9
+6442,Ramada Singapore At Zhongshan Park,Low,8,Grace,Pending,9
+6535,Ramada Singapore At Zhongshan Park,Low,8,Henry,Pending,9
+6572,Ramada Singapore At Zhongshan Park,Low,8,Ivy,Pending,9
+6579,Ramada Singapore At Zhongshan Park,Low,8,Jack,Pending,9
+6605,Ramada Singapore At Zhongshan Park,Low,8,Alice,Pending,9
+6702,Ramada Singapore At Zhongshan Park,Low,8,Bob,Pending,9
+6768,Ramada Singapore At Zhongshan Park,Low,8,Charlie,Pending,9
+6808,Ramada Singapore At Zhongshan Park,Low,8,David,Pending,9
+6850,The St. Regis Singapore,Low,8,Emma,Pending,9
+6882,The St. Regis Singapore,Low,8,Frank,Pending,9
+6913,The St. Regis Singapore,Low,8,Grace,Pending,9
+6961,The St. Regis Singapore,Low,8,Henry,Pending,9
+6963,The St. Regis Singapore,Low,8,Ivy,Pending,9
+6968,The St. Regis Singapore,Low,8,Jack,Pending,9
+6979,The St. Regis Singapore,Low,8,Alice,Pending,9
+1010,InterContinental Singapore,Low,9,Bob,Pending,10
+1049,InterContinental Singapore,Low,9,Charlie,Pending,10
+1105,InterContinental Singapore,Low,9,David,Pending,10
+1125,InterContinental Singapore,Low,9,Emma,Pending,10
+1201,InterContinental Singapore,Low,9,Frank,Pending,10
+1237,InterContinental Singapore,Low,9,Grace,Pending,10
+1244,InterContinental Singapore,Low,9,Henry,Pending,10
+1275,InterContinental Singapore,Low,9,Ivy,Pending,10
+1409,InterContinental Singapore,Low,9,Jack,Pending,10
+1411,InterContinental Singapore,Low,9,Alice,Pending,10
+1518,Hotel Jen Tanglin Singapore,Low,9,Bob,Pending,10
+1670,PARKROYAL on Kitchener Road,Low,9,Charlie,Pending,10
+1951,PARKROYAL on Kitchener Road,Low,9,David,Pending,10
+2018,PARKROYAL on Kitchener Road,Low,9,Emma,Pending,10
+2308,Ramada Singapore At Zhongshan Park,Low,9,Frank,Pending,10
+2333,Ramada Singapore At Zhongshan Park,Low,9,Grace,Pending,10
+2471,The St. Regis Singapore,Low,9,Henry,Pending,10
+2497,The St. Regis Singapore,Low,9,Ivy,Pending,10
+2554,The St. Regis Singapore,Low,9,Jack,Pending,10
+2587,The St. Regis Singapore,Low,9,Alice,Pending,10
+2783,Sunway Resort Hotel Spa,Low,9,Bob,Pending,10
+2795,Sunway Resort Hotel Spa,Low,9,Charlie,Pending,10
+2938,InterContinental Singapore,Low,9,David,Pending,10
+3031,InterContinental Singapore,Low,9,Emma,Pending,10
+3084,InterContinental Singapore,Low,9,Frank,Pending,10
+3098,InterContinental Singapore,Low,9,Grace,Pending,10
+3129,InterContinental Singapore,Low,9,Henry,Pending,10
+3155,InterContinental Singapore,Low,9,Ivy,Pending,10
+3289,InterContinental Singapore,Low,9,Jack,Pending,10
+3337,InterContinental Singapore,Low,9,Alice,Pending,10
+3351,InterContinental Singapore,Low,9,Bob,Pending,10
+3367,InterContinental Singapore,Low,9,Charlie,Pending,10
+3442,InterContinental Singapore,Low,9,David,Pending,10
+3449,InterContinental Singapore,Low,9,Emma,Pending,10
+3456,InterContinental Singapore,Low,9,Frank,Pending,10
+3460,InterContinental Singapore,Low,9,Grace,Pending,10
+3476,InterContinental Singapore,Low,9,Henry,Pending,10
+3481,InterContinental Singapore,Low,9,Ivy,Pending,10
+3486,InterContinental Singapore,Low,9,Jack,Pending,10
+3494,InterContinental Singapore,Low,9,Alice,Pending,10
+3498,InterContinental Singapore,Low,9,Bob,Pending,10
+3522,InterContinental Singapore,Low,9,Charlie,Pending,10
+3566,InterContinental Singapore,Low,9,David,Pending,10
+3618,InterContinental Singapore,Low,9,Emma,Pending,10
+3625,InterContinental Singapore,Low,9,Frank,Pending,10
+3638,InterContinental Singapore,Low,9,Grace,Pending,10
+3671,InterContinental Singapore,Low,9,Henry,Pending,10
+3700,InterContinental Singapore,Low,9,Ivy,Pending,10
+3708,InterContinental Singapore,Low,9,Jack,Pending,10
+3731,InterContinental Singapore,Low,9,Alice,Pending,10
+3777,InterContinental Singapore,Low,9,Bob,Pending,10
+3787,InterContinental Singapore,Low,9,Charlie,Pending,10
+3805,InterContinental Singapore,Low,9,David,Pending,10
+3815,InterContinental Singapore,Low,9,Emma,Pending,10
+3822,InterContinental Singapore,Low,9,Frank,Pending,10
+3829,InterContinental Singapore,Low,9,Grace,Pending,10
+3877,InterContinental Singapore,Low,9,Henry,Pending,10
+3908,InterContinental Singapore,Low,9,Ivy,Pending,10
+3912,InterContinental Singapore,Low,9,Jack,Pending,10
+3920,InterContinental Singapore,Low,9,Alice,Pending,10
+3935,InterContinental Singapore,Low,9,Bob,Pending,10
+3943,InterContinental Singapore,Low,9,Charlie,Pending,10
+3951,InterContinental Singapore,Low,9,David,Pending,10
+3962,InterContinental Singapore,Low,9,Emma,Pending,10
+3966,InterContinental Singapore,Low,9,Frank,Pending,10
+3999,InterContinental Singapore,Low,9,Grace,Pending,10
+4007,InterContinental Singapore,Low,9,Henry,Pending,10
+4120,InterContinental Singapore,Low,9,Ivy,Pending,10
+4129,InterContinental Singapore,Low,9,Jack,Pending,10
+4154,InterContinental Singapore,Low,9,Alice,Pending,10
+4197,InterContinental Singapore,Low,9,Bob,Pending,10
+4287,InterContinental Singapore,Low,9,Charlie,Pending,10
+4290,InterContinental Singapore,Low,9,David,Pending,10
+4294,InterContinental Singapore,Low,9,Emma,Pending,10
+4325,InterContinental Singapore,Low,9,Frank,Pending,10
+4333,InterContinental Singapore,Low,9,Grace,Pending,10
+4356,InterContinental Singapore,Low,9,Henry,Pending,10
+4358,InterContinental Singapore,Low,9,Ivy,Pending,10
+4368,InterContinental Singapore,Low,9,Jack,Pending,10
+4379,InterContinental Singapore,Low,9,Alice,Pending,10
+4381,InterContinental Singapore,Low,9,Bob,Pending,10
+4382,InterContinental Singapore,Low,9,Charlie,Pending,10
+4417,InterContinental Singapore,Low,9,David,Pending,10
+4482,InterContinental Singapore,Low,9,Emma,Pending,10
+4483,InterContinental Singapore,Low,9,Frank,Pending,10
+4533,InterContinental Singapore,Low,9,Grace,Pending,10
+4567,InterContinental Singapore,Low,9,Henry,Pending,10
+4595,InterContinental Singapore,Low,9,Ivy,Pending,10
+4608,InterContinental Singapore,Low,9,Jack,Pending,10
+4621,InterContinental Singapore,Low,9,Alice,Pending,10
+4627,InterContinental Singapore,Low,9,Bob,Pending,10
+4631,InterContinental Singapore,Low,9,Charlie,Pending,10
+4652,InterContinental Singapore,Low,9,David,Pending,10
+4662,InterContinental Singapore,Low,9,Emma,Pending,10
+4689,InterContinental Singapore,Low,9,Frank,Pending,10
+4723,InterContinental Singapore,Low,9,Grace,Pending,10
+4739,InterContinental Singapore,Low,9,Henry,Pending,10
+4751,InterContinental Singapore,Low,9,Ivy,Pending,10
+4768,InterContinental Singapore,Low,9,Jack,Pending,10
+4772,InterContinental Singapore,Low,9,Alice,Pending,10
+4778,InterContinental Singapore,Low,9,Bob,Pending,10
+4799,InterContinental Singapore,Low,9,Charlie,Pending,10
+4801,InterContinental Singapore,Low,9,David,Pending,10
+4882,InterContinental Singapore,Low,9,Emma,Pending,10
+4917,InterContinental Singapore,Low,9,Frank,Pending,10
+4922,InterContinental Singapore,Low,9,Grace,Pending,10
+4968,InterContinental Singapore,Low,9,Henry,Pending,10
+4975,InterContinental Singapore,Low,9,Ivy,Pending,10
+4993,Hotel Jen Tanglin Singapore,Low,9,Jack,Pending,10
+5001,Hotel Jen Tanglin Singapore,Low,9,Alice,Pending,10
+5042,Hotel Jen Tanglin Singapore,Low,9,Bob,Pending,10
+5051,Hotel Jen Tanglin Singapore,Low,9,Charlie,Pending,10
+5053,Hotel Jen Tanglin Singapore,Low,9,David,Pending,10
+5073,Hotel Jen Tanglin Singapore,Low,9,Emma,Pending,10
+5081,Hotel Jen Tanglin Singapore,Low,9,Frank,Pending,10
+5119,PARKROYAL on Kitchener Road,Low,9,Grace,Pending,10
+5168,PARKROYAL on Kitchener Road,Low,9,Henry,Pending,10
+5185,PARKROYAL on Kitchener Road,Low,9,Ivy,Pending,10
+5218,PARKROYAL on Kitchener Road,Low,9,Jack,Pending,10
+5225,PARKROYAL on Kitchener Road,Low,9,Alice,Pending,10
+5229,PARKROYAL on Kitchener Road,Low,9,Bob,Pending,10
+5236,PARKROYAL on Kitchener Road,Low,9,Charlie,Pending,10
+5263,PARKROYAL on Kitchener Road,Low,9,David,Pending,10
+5274,PARKROYAL on Kitchener Road,Low,9,Emma,Pending,10
+5281,PARKROYAL on Kitchener Road,Low,9,Frank,Pending,10
+5310,PARKROYAL on Kitchener Road,Low,9,Grace,Pending,10
+5311,PARKROYAL on Kitchener Road,Low,9,Henry,Pending,10
+5507,PARKROYAL on Kitchener Road,Low,9,Ivy,Pending,10
+5544,PARKROYAL on Kitchener Road,Low,9,Jack,Pending,10
+5558,PARKROYAL on Kitchener Road,Low,9,Alice,Pending,10
+5562,PARKROYAL on Kitchener Road,Low,9,Bob,Pending,10
+5592,PARKROYAL on Kitchener Road,Low,9,Charlie,Pending,10
+5664,PARKROYAL on Kitchener Road,Low,9,David,Pending,10
+5669,PARKROYAL on Kitchener Road,Low,9,Emma,Pending,10
+5682,PARKROYAL on Kitchener Road,Low,9,Frank,Pending,10
+5687,PARKROYAL on Kitchener Road,Low,9,Grace,Pending,10
+5694,PARKROYAL on Kitchener Road,Low,9,Henry,Pending,10
+5698,PARKROYAL on Kitchener Road,Low,9,Ivy,Pending,10
+5777,PARKROYAL on Kitchener Road,Low,9,Jack,Pending,10
+5793,PARKROYAL on Kitchener Road,Low,9,Alice,Pending,10
+6000,PARKROYAL on Kitchener Road,Low,9,Bob,Pending,10
+6044,PARKROYAL on Kitchener Road,Low,9,Charlie,Pending,10
+6057,PARKROYAL on Kitchener Road,Low,9,David,Pending,10
+6070,PARKROYAL on Kitchener Road,Low,9,Emma,Pending,10
+6092,PARKROYAL on Kitchener Road,Low,9,Frank,Pending,10
+6121,PARKROYAL on Kitchener Road,Low,9,Grace,Pending,10
+6142,PARKROYAL on Kitchener Road,Low,9,Henry,Pending,10
+6289,PARKROYAL on Kitchener Road,Low,9,Ivy,Pending,10
+6298,PARKROYAL on Kitchener Road,Low,9,Jack,Pending,10
+6320,PARKROYAL on Kitchener Road,Low,9,Alice,Pending,10
+6331,PARKROYAL on Kitchener Road,Low,9,Bob,Pending,10
+6351,PARKROYAL on Kitchener Road,Low,9,Charlie,Pending,10
+6376,PARKROYAL on Kitchener Road,Low,9,David,Pending,10
+6413,Ramada Singapore At Zhongshan Park,Low,9,Emma,Pending,10
+6431,Ramada Singapore At Zhongshan Park,Low,9,Frank,Pending,10
+6471,Ramada Singapore At Zhongshan Park,Low,9,Grace,Pending,10
+6478,Ramada Singapore At Zhongshan Park,Low,9,Henry,Pending,10
+6482,Ramada Singapore At Zhongshan Park,Low,9,Ivy,Pending,10
+6523,Ramada Singapore At Zhongshan Park,Low,9,Jack,Pending,10
+6618,Ramada Singapore At Zhongshan Park,Low,9,Alice,Pending,10
+6648,Ramada Singapore At Zhongshan Park,Low,9,Bob,Pending,10
+6689,Ramada Singapore At Zhongshan Park,Low,9,Charlie,Pending,10
+6723,Ramada Singapore At Zhongshan Park,Low,9,David,Pending,10
+6724,Ramada Singapore At Zhongshan Park,Low,9,Emma,Pending,10
+6738,Ramada Singapore At Zhongshan Park,Low,9,Frank,Pending,10
+6790,Ramada Singapore At Zhongshan Park,Low,9,Grace,Pending,10
+6870,The St. Regis Singapore,Low,9,Henry,Pending,10
+6967,The St. Regis Singapore,Low,9,Ivy,Pending,10
+6971,The St. Regis Singapore,Low,9,Jack,Pending,10
+6993,The St. Regis Singapore,Low,9,Alice,Pending,10
+1044,InterContinental Singapore,Low,10,Bob,Pending,11
+1113,InterContinental Singapore,Low,10,Charlie,Pending,11
+1147,InterContinental Singapore,Low,10,David,Pending,11
+1282,InterContinental Singapore,Low,10,Emma,Pending,11
+1361,InterContinental Singapore,Low,10,Frank,Pending,11
+1562,PARKROYAL on Kitchener Road,Low,10,Grace,Pending,11
+1620,PARKROYAL on Kitchener Road,Low,10,Henry,Pending,11
+1759,PARKROYAL on Kitchener Road,Low,10,Ivy,Pending,11
+2220,Ramada Singapore At Zhongshan Park,Low,10,Jack,Pending,11
+2263,Ramada Singapore At Zhongshan Park,Low,10,Alice,Pending,11
+2367,The St. Regis Singapore,Low,10,Bob,Pending,11
+2391,The St. Regis Singapore,Low,10,Charlie,Pending,11
+2430,The St. Regis Singapore,Low,10,David,Pending,11
+2434,The St. Regis Singapore,Low,10,Emma,Pending,11
+2504,The St. Regis Singapore,Low,10,Frank,Pending,11
+2763,Sunway Resort Hotel Spa,Low,10,Grace,Pending,11
+2876,Sunway Resort Hotel Spa,Low,10,Henry,Pending,11
+2884,Sunway Resort Hotel Spa,Low,10,Ivy,Pending,11
+2947,InterContinental Singapore,Low,10,Jack,Pending,11
+3095,InterContinental Singapore,Low,10,Alice,Pending,11
+3148,InterContinental Singapore,Low,10,Bob,Pending,11
+3166,InterContinental Singapore,Low,10,Charlie,Pending,11
+3377,InterContinental Singapore,Low,10,David,Pending,11
+3383,InterContinental Singapore,Low,10,Emma,Pending,11
+3393,InterContinental Singapore,Low,10,Frank,Pending,11
+3400,InterContinental Singapore,Low,10,Grace,Pending,11
+3429,InterContinental Singapore,Low,10,Henry,Pending,11
+3434,InterContinental Singapore,Low,10,Ivy,Pending,11
+3437,InterContinental Singapore,Low,10,Jack,Pending,11
+3485,InterContinental Singapore,Low,10,Alice,Pending,11
+3501,InterContinental Singapore,Low,10,Bob,Pending,11
+3523,InterContinental Singapore,Low,10,Charlie,Pending,11
+3572,InterContinental Singapore,Low,10,David,Pending,11
+3575,InterContinental Singapore,Low,10,Emma,Pending,11
+3580,InterContinental Singapore,Low,10,Frank,Pending,11
+3591,InterContinental Singapore,Low,10,Grace,Pending,11
+3607,InterContinental Singapore,Low,10,Henry,Pending,11
+3635,InterContinental Singapore,Low,10,Ivy,Pending,11
+3655,InterContinental Singapore,Low,10,Jack,Pending,11
+3658,InterContinental Singapore,Low,10,Alice,Pending,11
+3663,InterContinental Singapore,Low,10,Bob,Pending,11
+3666,InterContinental Singapore,Low,10,Charlie,Pending,11
+3673,InterContinental Singapore,Low,10,David,Pending,11
+3675,InterContinental Singapore,Low,10,Emma,Pending,11
+3722,InterContinental Singapore,Low,10,Frank,Pending,11
+3745,InterContinental Singapore,Low,10,Grace,Pending,11
+3769,InterContinental Singapore,Low,10,Henry,Pending,11
+3800,InterContinental Singapore,Low,10,Ivy,Pending,11
+3809,InterContinental Singapore,Low,10,Jack,Pending,11
+3827,InterContinental Singapore,Low,10,Alice,Pending,11
+3828,InterContinental Singapore,Low,10,Bob,Pending,11
+3852,InterContinental Singapore,Low,10,Charlie,Pending,11
+3997,InterContinental Singapore,Low,10,David,Pending,11
+4025,InterContinental Singapore,Low,10,Emma,Pending,11
+4060,InterContinental Singapore,Low,10,Frank,Pending,11
+4066,InterContinental Singapore,Low,10,Grace,Pending,11
+4081,InterContinental Singapore,Low,10,Henry,Pending,11
+4128,InterContinental Singapore,Low,10,Ivy,Pending,11
+4173,InterContinental Singapore,Low,10,Jack,Pending,11
+4208,InterContinental Singapore,Low,10,Alice,Pending,11
+4209,InterContinental Singapore,Low,10,Bob,Pending,11
+4212,InterContinental Singapore,Low,10,Charlie,Pending,11
+4220,InterContinental Singapore,Low,10,David,Pending,11
+4258,InterContinental Singapore,Low,10,Emma,Pending,11
+4263,InterContinental Singapore,Low,10,Frank,Pending,11
+4275,InterContinental Singapore,Low,10,Grace,Pending,11
+4298,InterContinental Singapore,Low,10,Henry,Pending,11
+4312,InterContinental Singapore,Low,10,Ivy,Pending,11
+4350,InterContinental Singapore,Low,10,Jack,Pending,11
+4372,InterContinental Singapore,Low,10,Alice,Pending,11
+4385,InterContinental Singapore,Low,10,Bob,Pending,11
+4389,InterContinental Singapore,Low,10,Charlie,Pending,11
+4409,InterContinental Singapore,Low,10,David,Pending,11
+4416,InterContinental Singapore,Low,10,Emma,Pending,11
+4427,InterContinental Singapore,Low,10,Frank,Pending,11
+4455,InterContinental Singapore,Low,10,Grace,Pending,11
+4471,InterContinental Singapore,Low,10,Henry,Pending,11
+4496,InterContinental Singapore,Low,10,Ivy,Pending,11
+4500,InterContinental Singapore,Low,10,Jack,Pending,11
+4511,InterContinental Singapore,Low,10,Alice,Pending,11
+4517,InterContinental Singapore,Low,10,Bob,Pending,11
+4553,InterContinental Singapore,Low,10,Charlie,Pending,11
+4588,InterContinental Singapore,Low,10,David,Pending,11
+4589,InterContinental Singapore,Low,10,Emma,Pending,11
+4628,InterContinental Singapore,Low,10,Frank,Pending,11
+4661,InterContinental Singapore,Low,10,Grace,Pending,11
+4678,InterContinental Singapore,Low,10,Henry,Pending,11
+4680,InterContinental Singapore,Low,10,Ivy,Pending,11
+4681,InterContinental Singapore,Low,10,Jack,Pending,11
+4722,InterContinental Singapore,Low,10,Alice,Pending,11
+4748,InterContinental Singapore,Low,10,Bob,Pending,11
+4818,InterContinental Singapore,Low,10,Charlie,Pending,11
+4829,InterContinental Singapore,Low,10,David,Pending,11
+4870,InterContinental Singapore,Low,10,Emma,Pending,11
+4873,InterContinental Singapore,Low,10,Frank,Pending,11
+4874,InterContinental Singapore,Low,10,Grace,Pending,11
+4956,InterContinental Singapore,Low,10,Henry,Pending,11
+4977,InterContinental Singapore,Low,10,Ivy,Pending,11
+4990,Hotel Jen Tanglin Singapore,Low,10,Jack,Pending,11
+5008,Hotel Jen Tanglin Singapore,Low,10,Alice,Pending,11
+5022,Hotel Jen Tanglin Singapore,Low,10,Bob,Pending,11
+5023,Hotel Jen Tanglin Singapore,Low,10,Charlie,Pending,11
+5036,Hotel Jen Tanglin Singapore,Low,10,David,Pending,11
+5052,Hotel Jen Tanglin Singapore,Low,10,Emma,Pending,11
+5068,Hotel Jen Tanglin Singapore,Low,10,Frank,Pending,11
+5084,Hotel Jen Tanglin Singapore,Low,10,Grace,Pending,11
+5132,PARKROYAL on Kitchener Road,Low,10,Henry,Pending,11
+5166,PARKROYAL on Kitchener Road,Low,10,Ivy,Pending,11
+5209,PARKROYAL on Kitchener Road,Low,10,Jack,Pending,11
+5250,PARKROYAL on Kitchener Road,Low,10,Alice,Pending,11
+5284,PARKROYAL on Kitchener Road,Low,10,Bob,Pending,11
+5290,PARKROYAL on Kitchener Road,Low,10,Charlie,Pending,11
+5293,PARKROYAL on Kitchener Road,Low,10,David,Pending,11
+5312,PARKROYAL on Kitchener Road,Low,10,Emma,Pending,11
+5322,PARKROYAL on Kitchener Road,Low,10,Frank,Pending,11
+5326,PARKROYAL on Kitchener Road,Low,10,Grace,Pending,11
+5335,PARKROYAL on Kitchener Road,Low,10,Henry,Pending,11
+5351,PARKROYAL on Kitchener Road,Low,10,Ivy,Pending,11
+5362,PARKROYAL on Kitchener Road,Low,10,Jack,Pending,11
+5373,PARKROYAL on Kitchener Road,Low,10,Alice,Pending,11
+5374,PARKROYAL on Kitchener Road,Low,10,Bob,Pending,11
+5401,PARKROYAL on Kitchener Road,Low,10,Charlie,Pending,11
+5402,PARKROYAL on Kitchener Road,Low,10,David,Pending,11
+5430,PARKROYAL on Kitchener Road,Low,10,Emma,Pending,11
+5469,PARKROYAL on Kitchener Road,Low,10,Frank,Pending,11
+5490,PARKROYAL on Kitchener Road,Low,10,Grace,Pending,11
+5497,PARKROYAL on Kitchener Road,Low,10,Henry,Pending,11
+5502,PARKROYAL on Kitchener Road,Low,10,Ivy,Pending,11
+5612,PARKROYAL on Kitchener Road,Low,10,Jack,Pending,11
+5652,PARKROYAL on Kitchener Road,Low,10,Alice,Pending,11
+5668,PARKROYAL on Kitchener Road,Low,10,Bob,Pending,11
+5734,PARKROYAL on Kitchener Road,Low,10,Charlie,Pending,11
+5784,PARKROYAL on Kitchener Road,Low,10,David,Pending,11
+5822,PARKROYAL on Kitchener Road,Low,10,Emma,Pending,11
+5831,PARKROYAL on Kitchener Road,Low,10,Frank,Pending,11
+5845,PARKROYAL on Kitchener Road,Low,10,Grace,Pending,11
+5851,PARKROYAL on Kitchener Road,Low,10,Henry,Pending,11
+5879,PARKROYAL on Kitchener Road,Low,10,Ivy,Pending,11
+5888,PARKROYAL on Kitchener Road,Low,10,Jack,Pending,11
+5961,PARKROYAL on Kitchener Road,Low,10,Alice,Pending,11
+6007,PARKROYAL on Kitchener Road,Low,10,Bob,Pending,11
+6085,PARKROYAL on Kitchener Road,Low,10,Charlie,Pending,11
+6172,PARKROYAL on Kitchener Road,Low,10,David,Pending,11
+6235,PARKROYAL on Kitchener Road,Low,10,Emma,Pending,11
+6305,PARKROYAL on Kitchener Road,Low,10,Frank,Pending,11
+6349,PARKROYAL on Kitchener Road,Low,10,Grace,Pending,11
+6356,PARKROYAL on Kitchener Road,Low,10,Henry,Pending,11
+6418,Ramada Singapore At Zhongshan Park,Low,10,Ivy,Pending,11
+6467,Ramada Singapore At Zhongshan Park,Low,10,Jack,Pending,11
+6472,Ramada Singapore At Zhongshan Park,Low,10,Alice,Pending,11
+6473,Ramada Singapore At Zhongshan Park,Low,10,Bob,Pending,11
+6479,Ramada Singapore At Zhongshan Park,Low,10,Charlie,Pending,11
+6508,Ramada Singapore At Zhongshan Park,Low,10,David,Pending,11
+6516,Ramada Singapore At Zhongshan Park,Low,10,Emma,Pending,11
+6524,Ramada Singapore At Zhongshan Park,Low,10,Frank,Pending,11
+6557,Ramada Singapore At Zhongshan Park,Low,10,Grace,Pending,11
+6558,Ramada Singapore At Zhongshan Park,Low,10,Henry,Pending,11
+6625,Ramada Singapore At Zhongshan Park,Low,10,Ivy,Pending,11
+6726,Ramada Singapore At Zhongshan Park,Low,10,Jack,Pending,11
+6775,Ramada Singapore At Zhongshan Park,Low,10,Alice,Pending,11
+6788,Ramada Singapore At Zhongshan Park,Low,10,Bob,Pending,11
+6868,The St. Regis Singapore,Low,10,Charlie,Pending,11
+6878,The St. Regis Singapore,Low,10,David,Pending,11
+6972,The St. Regis Singapore,Low,10,Emma,Pending,11
+6987,The St. Regis Singapore,Low,10,Frank,Pending,11
+7002,The St. Regis Singapore,Low,10,Grace,Pending,11
+7007,The St. Regis Singapore,Low,10,Henry,Pending,11
+1172,InterContinental Singapore,Low,11,Ivy,Pending,12
+1203,InterContinental Singapore,Low,11,Jack,Pending,12
+1298,InterContinental Singapore,Low,11,Alice,Pending,12
+1408,InterContinental Singapore,Low,11,Bob,Pending,12
+1852,PARKROYAL on Kitchener Road,Low,11,Charlie,Pending,12
+2327,Ramada Singapore At Zhongshan Park,Low,11,David,Pending,12
+2337,Ramada Singapore At Zhongshan Park,Low,11,Emma,Pending,12
+2344,The St. Regis Singapore,Low,11,Frank,Pending,12
+2377,The St. Regis Singapore,Low,11,Grace,Pending,12
+2395,The St. Regis Singapore,Low,11,Henry,Pending,12
+2406,The St. Regis Singapore,Low,11,Ivy,Pending,12
+2545,The St. Regis Singapore,Low,11,Jack,Pending,12
+2894,Sunway Resort Hotel Spa,Low,11,Alice,Pending,12
+2914,Sunway Resort Hotel Spa,Low,11,Bob,Pending,12
+2931,InterContinental Singapore,Low,11,Charlie,Pending,12
+3263,InterContinental Singapore,Low,11,David,Pending,12
+3312,InterContinental Singapore,Low,11,Emma,Pending,12
+3348,InterContinental Singapore,Low,11,Frank,Pending,12
+3404,InterContinental Singapore,Low,11,Grace,Pending,12
+3441,InterContinental Singapore,Low,11,Henry,Pending,12
+3478,InterContinental Singapore,Low,11,Ivy,Pending,12
+3549,InterContinental Singapore,Low,11,Jack,Pending,12
+3557,InterContinental Singapore,Low,11,Alice,Pending,12
+3570,InterContinental Singapore,Low,11,Bob,Pending,12
+3639,InterContinental Singapore,Low,11,Charlie,Pending,12
+3677,InterContinental Singapore,Low,11,David,Pending,12
+3734,InterContinental Singapore,Low,11,Emma,Pending,12
+3812,InterContinental Singapore,Low,11,Frank,Pending,12
+3817,InterContinental Singapore,Low,11,Grace,Pending,12
+3879,InterContinental Singapore,Low,11,Henry,Pending,12
+3880,InterContinental Singapore,Low,11,Ivy,Pending,12
+3924,InterContinental Singapore,Low,11,Jack,Pending,12
+3933,InterContinental Singapore,Low,11,Alice,Pending,12
+3981,InterContinental Singapore,Low,11,Bob,Pending,12
+4016,InterContinental Singapore,Low,11,Charlie,Pending,12
+4026,InterContinental Singapore,Low,11,David,Pending,12
+4034,InterContinental Singapore,Low,11,Emma,Pending,12
+4103,InterContinental Singapore,Low,11,Frank,Pending,12
+4112,InterContinental Singapore,Low,11,Grace,Pending,12
+4121,InterContinental Singapore,Low,11,Henry,Pending,12
+4199,InterContinental Singapore,Low,11,Ivy,Pending,12
+4216,InterContinental Singapore,Low,11,Jack,Pending,12
+4305,InterContinental Singapore,Low,11,Alice,Pending,12
+4327,InterContinental Singapore,Low,11,Bob,Pending,12
+4331,InterContinental Singapore,Low,11,Charlie,Pending,12
+4339,InterContinental Singapore,Low,11,David,Pending,12
+4392,InterContinental Singapore,Low,11,Emma,Pending,12
+4429,InterContinental Singapore,Low,11,Frank,Pending,12
+4476,InterContinental Singapore,Low,11,Grace,Pending,12
+4493,InterContinental Singapore,Low,11,Henry,Pending,12
+4506,InterContinental Singapore,Low,11,Ivy,Pending,12
+4510,InterContinental Singapore,Low,11,Jack,Pending,12
+4564,InterContinental Singapore,Low,11,Alice,Pending,12
+4570,InterContinental Singapore,Low,11,Bob,Pending,12
+4577,InterContinental Singapore,Low,11,Charlie,Pending,12
+4607,InterContinental Singapore,Low,11,David,Pending,12
+4620,InterContinental Singapore,Low,11,Emma,Pending,12
+4666,InterContinental Singapore,Low,11,Frank,Pending,12
+4758,InterContinental Singapore,Low,11,Grace,Pending,12
+4761,InterContinental Singapore,Low,11,Henry,Pending,12
+4773,InterContinental Singapore,Low,11,Ivy,Pending,12
+4817,InterContinental Singapore,Low,11,Jack,Pending,12
+4822,InterContinental Singapore,Low,11,Alice,Pending,12
+4828,InterContinental Singapore,Low,11,Bob,Pending,12
+4842,InterContinental Singapore,Low,11,Charlie,Pending,12
+4883,InterContinental Singapore,Low,11,David,Pending,12
+4912,InterContinental Singapore,Low,11,Emma,Pending,12
+4933,InterContinental Singapore,Low,11,Frank,Pending,12
+4998,Hotel Jen Tanglin Singapore,Low,11,Grace,Pending,12
+5028,Hotel Jen Tanglin Singapore,Low,11,Henry,Pending,12
+5031,Hotel Jen Tanglin Singapore,Low,11,Ivy,Pending,12
+5066,Hotel Jen Tanglin Singapore,Low,11,Jack,Pending,12
+5074,Hotel Jen Tanglin Singapore,Low,11,Alice,Pending,12
+5104,PARKROYAL on Kitchener Road,Low,11,Bob,Pending,12
+5108,PARKROYAL on Kitchener Road,Low,11,Charlie,Pending,12
+5150,PARKROYAL on Kitchener Road,Low,11,David,Pending,12
+5200,PARKROYAL on Kitchener Road,Low,11,Emma,Pending,12
+5201,PARKROYAL on Kitchener Road,Low,11,Frank,Pending,12
+5227,PARKROYAL on Kitchener Road,Low,11,Grace,Pending,12
+5246,PARKROYAL on Kitchener Road,Low,11,Henry,Pending,12
+5271,PARKROYAL on Kitchener Road,Low,11,Ivy,Pending,12
+5273,PARKROYAL on Kitchener Road,Low,11,Jack,Pending,12
+5301,PARKROYAL on Kitchener Road,Low,11,Alice,Pending,12
+5367,PARKROYAL on Kitchener Road,Low,11,Bob,Pending,12
+5379,PARKROYAL on Kitchener Road,Low,11,Charlie,Pending,12
+5426,PARKROYAL on Kitchener Road,Low,11,David,Pending,12
+5448,PARKROYAL on Kitchener Road,Low,11,Emma,Pending,12
+5456,PARKROYAL on Kitchener Road,Low,11,Frank,Pending,12
+5480,PARKROYAL on Kitchener Road,Low,11,Grace,Pending,12
+5493,PARKROYAL on Kitchener Road,Low,11,Henry,Pending,12
+5515,PARKROYAL on Kitchener Road,Low,11,Ivy,Pending,12
+5563,PARKROYAL on Kitchener Road,Low,11,Jack,Pending,12
+5577,PARKROYAL on Kitchener Road,Low,11,Alice,Pending,12
+5634,PARKROYAL on Kitchener Road,Low,11,Bob,Pending,12
+5677,PARKROYAL on Kitchener Road,Low,11,Charlie,Pending,12
+5681,PARKROYAL on Kitchener Road,Low,11,David,Pending,12
+5684,PARKROYAL on Kitchener Road,Low,11,Emma,Pending,12
+5807,PARKROYAL on Kitchener Road,Low,11,Frank,Pending,12
+5869,PARKROYAL on Kitchener Road,Low,11,Grace,Pending,12
+5889,PARKROYAL on Kitchener Road,Low,11,Henry,Pending,12
+5892,PARKROYAL on Kitchener Road,Low,11,Ivy,Pending,12
+5893,PARKROYAL on Kitchener Road,Low,11,Jack,Pending,12
+5898,PARKROYAL on Kitchener Road,Low,11,Alice,Pending,12
+5902,PARKROYAL on Kitchener Road,Low,11,Bob,Pending,12
+5914,PARKROYAL on Kitchener Road,Low,11,Charlie,Pending,12
+6024,PARKROYAL on Kitchener Road,Low,11,David,Pending,12
+6033,PARKROYAL on Kitchener Road,Low,11,Emma,Pending,12
+6136,PARKROYAL on Kitchener Road,Low,11,Frank,Pending,12
+6187,PARKROYAL on Kitchener Road,Low,11,Grace,Pending,12
+6226,PARKROYAL on Kitchener Road,Low,11,Henry,Pending,12
+6257,PARKROYAL on Kitchener Road,Low,11,Ivy,Pending,12
+6262,PARKROYAL on Kitchener Road,Low,11,Jack,Pending,12
+6270,PARKROYAL on Kitchener Road,Low,11,Alice,Pending,12
+6272,PARKROYAL on Kitchener Road,Low,11,Bob,Pending,12
+6283,PARKROYAL on Kitchener Road,Low,11,Charlie,Pending,12
+6370,PARKROYAL on Kitchener Road,Low,11,David,Pending,12
+6509,Ramada Singapore At Zhongshan Park,Low,11,Emma,Pending,12
+6541,Ramada Singapore At Zhongshan Park,Low,11,Frank,Pending,12
+6560,Ramada Singapore At Zhongshan Park,Low,11,Grace,Pending,12
+6583,Ramada Singapore At Zhongshan Park,Low,11,Henry,Pending,12
+6673,Ramada Singapore At Zhongshan Park,Low,11,Ivy,Pending,12
+6685,Ramada Singapore At Zhongshan Park,Low,11,Jack,Pending,12
+6752,Ramada Singapore At Zhongshan Park,Low,11,Alice,Pending,12
+6782,Ramada Singapore At Zhongshan Park,Low,11,Bob,Pending,12
+6826,Ramada Singapore At Zhongshan Park,Low,11,Charlie,Pending,12
+6832,Ramada Singapore At Zhongshan Park,Low,11,David,Pending,12
+6851,The St. Regis Singapore,Low,11,Emma,Pending,12
+6931,The St. Regis Singapore,Low,11,Frank,Pending,12
+6965,The St. Regis Singapore,Low,11,Grace,Pending,12
+7000,The St. Regis Singapore,Low,11,Henry,Pending,12
